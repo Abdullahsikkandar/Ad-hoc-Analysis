@@ -39,7 +39,7 @@ The project includes a series of SQL queries that provide insights into hardware
 - Insights into customer behavior allow for targeted marketing initiatives to enhance customer retention and sales growth.
 
 ## How to Use
-- 1. Clone the repository:
+- 1.Clone the repository:
    ```bash
    git clone https://github.com/your-username/Atliq-Hardware-Sales-Analysis.git
 - 2.Import the SQL scripts into your MySQL database using MySQL Workbench or command-line tools.
