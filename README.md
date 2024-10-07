@@ -7,10 +7,6 @@
 - Queries Overview
 - Insights
 - How to Use
-- Installation
-- Usage
-- Contributing
-- License
 
 ## Project Overview
 The Atliq Hardware Sales Ad Hoc Analysis and Insights project aims to analyze sales data to uncover insights related to hardware products, sales channels, and customer behavior. The analysis uses SQL queries to derive actionable insights that support strategic decision-making for sales and marketing efforts.
@@ -43,11 +39,11 @@ The project includes a series of SQL queries that provide insights into hardware
 - Insights into customer behavior allow for targeted marketing initiatives to enhance customer retention and sales growth.
 
 ## How to Use
-1. Clone the repository:
+- 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Atliq-Hardware-Sales-Analysis.git
-2.Import the SQL scripts into your MySQL database using MySQL Workbench or command-line tools.
-3.Open your MySQL environment and connect to the database.
-4.Run the provided SQL queries to generate insights on hardware sales.
-5.Modify queries as necessary to explore different aspects of the data.
-6.Review the results to inform strategic decisions in sales and marketing.
+- 2.Import the SQL scripts into your MySQL database using MySQL Workbench or command-line tools.
+- 3.Open your MySQL environment and connect to the database.
+- 4.Run the provided SQL queries to generate insights on hardware sales.
+- 5.Modify queries as necessary to explore different aspects of the data.
+- 6.Review the results to inform strategic decisions in sales and marketing.
